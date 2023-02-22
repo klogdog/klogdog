@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klogdog
 - 👀 I’m interested in automation, machine learning, computer vision, and decentralized communication
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on computer vision projects
 - 📫 How to reach me klogdog@gmail.com
 
