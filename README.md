@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @klogdog
 - 👀 I’m interested in automation, machine learning, computer vision, and decentralized communication
-- 🌱 I’m currently learning prompt engineering
-- 💞️ I’m looking to collaborate on computer vision projects
+- 🌱 I’m currently learning reccomendation engines
+- 💞️ I’m looking to collaborate on robotic projects
 - 📫 How to reach me klogdog@gmail.com
 
 <!---
